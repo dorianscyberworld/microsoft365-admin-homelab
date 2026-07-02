@@ -44,12 +44,14 @@ The purpose of this homelab is to practice real-world IT Help Desk and Microsoft
 |---|---|---|---|---|
 | M365-001 | Password Reset Needed | Account Access | Medium | Closed |
 | M365-002 | Enable MFA for User | Security / MFA | High | Closed |
+| M365-003 | Assign License to User | Licensing | High | Closed |
 
 ---
 
 ## Ticket Documentation
 - [Ticket M365-001 – Password Reset Needed](tickets/ticket-m365-001-password-reset.md)
 - [Ticket M365-002 – Enable MFA for User](tickets/ticket-m365-002-enable-mfa.md)
+- [Ticket M365-003 – Assign License to User](tickets/ticket-m365-003-assign-license.md)
 
 ---
 
